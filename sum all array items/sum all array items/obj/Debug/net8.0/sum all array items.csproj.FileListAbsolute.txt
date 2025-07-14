@@ -1,0 +1,14 @@
+D:\C# Codes\sum all array items\sum all array items\bin\Debug\net8.0\sum all array items.exe
+D:\C# Codes\sum all array items\sum all array items\bin\Debug\net8.0\sum all array items.deps.json
+D:\C# Codes\sum all array items\sum all array items\bin\Debug\net8.0\sum all array items.runtimeconfig.json
+D:\C# Codes\sum all array items\sum all array items\bin\Debug\net8.0\sum all array items.dll
+D:\C# Codes\sum all array items\sum all array items\bin\Debug\net8.0\sum all array items.pdb
+D:\C# Codes\sum all array items\sum all array items\obj\Debug\net8.0\sum all array items.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Codes\sum all array items\sum all array items\obj\Debug\net8.0\sum all array items.AssemblyInfoInputs.cache
+D:\C# Codes\sum all array items\sum all array items\obj\Debug\net8.0\sum all array items.AssemblyInfo.cs
+D:\C# Codes\sum all array items\sum all array items\obj\Debug\net8.0\sum all array items.csproj.CoreCompileInputs.cache
+D:\C# Codes\sum all array items\sum all array items\obj\Debug\net8.0\sum all array items.dll
+D:\C# Codes\sum all array items\sum all array items\obj\Debug\net8.0\refint\sum all array items.dll
+D:\C# Codes\sum all array items\sum all array items\obj\Debug\net8.0\sum all array items.pdb
+D:\C# Codes\sum all array items\sum all array items\obj\Debug\net8.0\sum all array items.genruntimeconfig.cache
+D:\C# Codes\sum all array items\sum all array items\obj\Debug\net8.0\ref\sum all array items.dll

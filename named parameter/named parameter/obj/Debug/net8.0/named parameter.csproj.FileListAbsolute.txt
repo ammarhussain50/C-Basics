@@ -1,0 +1,14 @@
+D:\C# Codes\named parameter\named parameter\bin\Debug\net8.0\named parameter.exe
+D:\C# Codes\named parameter\named parameter\bin\Debug\net8.0\named parameter.deps.json
+D:\C# Codes\named parameter\named parameter\bin\Debug\net8.0\named parameter.runtimeconfig.json
+D:\C# Codes\named parameter\named parameter\bin\Debug\net8.0\named parameter.dll
+D:\C# Codes\named parameter\named parameter\bin\Debug\net8.0\named parameter.pdb
+D:\C# Codes\named parameter\named parameter\obj\Debug\net8.0\named parameter.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Codes\named parameter\named parameter\obj\Debug\net8.0\named parameter.AssemblyInfoInputs.cache
+D:\C# Codes\named parameter\named parameter\obj\Debug\net8.0\named parameter.AssemblyInfo.cs
+D:\C# Codes\named parameter\named parameter\obj\Debug\net8.0\named parameter.csproj.CoreCompileInputs.cache
+D:\C# Codes\named parameter\named parameter\obj\Debug\net8.0\named parameter.dll
+D:\C# Codes\named parameter\named parameter\obj\Debug\net8.0\refint\named parameter.dll
+D:\C# Codes\named parameter\named parameter\obj\Debug\net8.0\named parameter.pdb
+D:\C# Codes\named parameter\named parameter\obj\Debug\net8.0\named parameter.genruntimeconfig.cache
+D:\C# Codes\named parameter\named parameter\obj\Debug\net8.0\ref\named parameter.dll

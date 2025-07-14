@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C# Codes\\functions with parameter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68D7AEDF-473E-4EFA-9433-8E2B65D09ED9}|functions with parameter\\functions with parameter.csproj|d:\\c# codes\\functions with parameter\\functions with parameter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68D7AEDF-473E-4EFA-9433-8E2B65D09ED9}|functions with parameter\\functions with parameter.csproj|solutionrelative:functions with parameter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C# Codes\\functions with parameter\\functions with parameter\\Program.cs",
+              "RelativeDocumentMoniker": "functions with parameter\\Program.cs",
+              "ToolTip": "D:\\C# Codes\\functions with parameter\\functions with parameter\\Program.cs*",
+              "RelativeToolTip": "functions with parameter\\Program.cs*",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAAC0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T09:50:49.707Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

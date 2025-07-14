@@ -1,0 +1,14 @@
+D:\C# Codes\parsing error message\parsing error message\bin\Debug\net8.0\parsing error message.exe
+D:\C# Codes\parsing error message\parsing error message\bin\Debug\net8.0\parsing error message.deps.json
+D:\C# Codes\parsing error message\parsing error message\bin\Debug\net8.0\parsing error message.runtimeconfig.json
+D:\C# Codes\parsing error message\parsing error message\bin\Debug\net8.0\parsing error message.dll
+D:\C# Codes\parsing error message\parsing error message\bin\Debug\net8.0\parsing error message.pdb
+D:\C# Codes\parsing error message\parsing error message\obj\Debug\net8.0\parsing error message.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Codes\parsing error message\parsing error message\obj\Debug\net8.0\parsing error message.AssemblyInfoInputs.cache
+D:\C# Codes\parsing error message\parsing error message\obj\Debug\net8.0\parsing error message.AssemblyInfo.cs
+D:\C# Codes\parsing error message\parsing error message\obj\Debug\net8.0\parsing error message.csproj.CoreCompileInputs.cache
+D:\C# Codes\parsing error message\parsing error message\obj\Debug\net8.0\parsing error message.dll
+D:\C# Codes\parsing error message\parsing error message\obj\Debug\net8.0\refint\parsing error message.dll
+D:\C# Codes\parsing error message\parsing error message\obj\Debug\net8.0\parsing error message.pdb
+D:\C# Codes\parsing error message\parsing error message\obj\Debug\net8.0\parsing error message.genruntimeconfig.cache
+D:\C# Codes\parsing error message\parsing error message\obj\Debug\net8.0\ref\parsing error message.dll

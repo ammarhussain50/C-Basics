@@ -1,0 +1,14 @@
+C:\Users\AMMAR\source\repos\reversing a string\reversing a string\obj\Debug\net8.0\reversing a string.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AMMAR\source\repos\reversing a string\reversing a string\obj\Debug\net8.0\reversing a string.AssemblyInfoInputs.cache
+C:\Users\AMMAR\source\repos\reversing a string\reversing a string\obj\Debug\net8.0\reversing a string.AssemblyInfo.cs
+C:\Users\AMMAR\source\repos\reversing a string\reversing a string\obj\Debug\net8.0\reversing a string.csproj.CoreCompileInputs.cache
+C:\Users\AMMAR\source\repos\reversing a string\reversing a string\bin\Debug\net8.0\reversing a string.exe
+C:\Users\AMMAR\source\repos\reversing a string\reversing a string\bin\Debug\net8.0\reversing a string.deps.json
+C:\Users\AMMAR\source\repos\reversing a string\reversing a string\bin\Debug\net8.0\reversing a string.runtimeconfig.json
+C:\Users\AMMAR\source\repos\reversing a string\reversing a string\bin\Debug\net8.0\reversing a string.dll
+C:\Users\AMMAR\source\repos\reversing a string\reversing a string\bin\Debug\net8.0\reversing a string.pdb
+C:\Users\AMMAR\source\repos\reversing a string\reversing a string\obj\Debug\net8.0\reversing a string.dll
+C:\Users\AMMAR\source\repos\reversing a string\reversing a string\obj\Debug\net8.0\refint\reversing a string.dll
+C:\Users\AMMAR\source\repos\reversing a string\reversing a string\obj\Debug\net8.0\reversing a string.pdb
+C:\Users\AMMAR\source\repos\reversing a string\reversing a string\obj\Debug\net8.0\reversing a string.genruntimeconfig.cache
+C:\Users\AMMAR\source\repos\reversing a string\reversing a string\obj\Debug\net8.0\ref\reversing a string.dll

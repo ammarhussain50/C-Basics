@@ -1,0 +1,8 @@
+C:\Users\AMMAR\source\repos\storing user data\storing user data\bin\Debug\storing user data.exe.config
+C:\Users\AMMAR\source\repos\storing user data\storing user data\bin\Debug\storing user data.exe
+C:\Users\AMMAR\source\repos\storing user data\storing user data\bin\Debug\storing user data.pdb
+C:\Users\AMMAR\source\repos\storing user data\storing user data\obj\Debug\storing user data.csproj.AssemblyReference.cache
+C:\Users\AMMAR\source\repos\storing user data\storing user data\obj\Debug\storing user data.csproj.CoreCompileInputs.cache
+C:\Users\AMMAR\source\repos\storing user data\storing user data\obj\Debug\storing user data.exe
+C:\Users\AMMAR\source\repos\storing user data\storing user data\obj\Debug\storing user data.pdb
+C:\Users\AMMAR\source\repos\storing user data\storing user data\obj\Debug\storing user data.exe.config

@@ -1,0 +1,8 @@
+C:\Users\AMMAR\source\repos\conditional operator ternary operator\conditional operator ternary operator\bin\Debug\conditional operator ternary operator.exe.config
+C:\Users\AMMAR\source\repos\conditional operator ternary operator\conditional operator ternary operator\bin\Debug\conditional operator ternary operator.exe
+C:\Users\AMMAR\source\repos\conditional operator ternary operator\conditional operator ternary operator\bin\Debug\conditional operator ternary operator.pdb
+C:\Users\AMMAR\source\repos\conditional operator ternary operator\conditional operator ternary operator\obj\Debug\conditional operator ternary operator.csproj.AssemblyReference.cache
+C:\Users\AMMAR\source\repos\conditional operator ternary operator\conditional operator ternary operator\obj\Debug\conditional operator ternary operator.csproj.CoreCompileInputs.cache
+C:\Users\AMMAR\source\repos\conditional operator ternary operator\conditional operator ternary operator\obj\Debug\conditional operator ternary operator.exe
+C:\Users\AMMAR\source\repos\conditional operator ternary operator\conditional operator ternary operator\obj\Debug\conditional operator ternary operator.pdb
+C:\Users\AMMAR\source\repos\conditional operator ternary operator\conditional operator ternary operator\obj\Debug\conditional operator ternary operator.exe.config

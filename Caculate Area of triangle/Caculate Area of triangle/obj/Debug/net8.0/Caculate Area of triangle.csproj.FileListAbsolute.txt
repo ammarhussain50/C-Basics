@@ -1,0 +1,14 @@
+D:\C# Codes\Caculate Area of triangle\Caculate Area of triangle\bin\Debug\net8.0\Caculate Area of triangle.exe
+D:\C# Codes\Caculate Area of triangle\Caculate Area of triangle\bin\Debug\net8.0\Caculate Area of triangle.deps.json
+D:\C# Codes\Caculate Area of triangle\Caculate Area of triangle\bin\Debug\net8.0\Caculate Area of triangle.runtimeconfig.json
+D:\C# Codes\Caculate Area of triangle\Caculate Area of triangle\bin\Debug\net8.0\Caculate Area of triangle.dll
+D:\C# Codes\Caculate Area of triangle\Caculate Area of triangle\bin\Debug\net8.0\Caculate Area of triangle.pdb
+D:\C# Codes\Caculate Area of triangle\Caculate Area of triangle\obj\Debug\net8.0\Caculate Area of triangle.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Codes\Caculate Area of triangle\Caculate Area of triangle\obj\Debug\net8.0\Caculate Area of triangle.AssemblyInfoInputs.cache
+D:\C# Codes\Caculate Area of triangle\Caculate Area of triangle\obj\Debug\net8.0\Caculate Area of triangle.AssemblyInfo.cs
+D:\C# Codes\Caculate Area of triangle\Caculate Area of triangle\obj\Debug\net8.0\Caculate Area of triangle.csproj.CoreCompileInputs.cache
+D:\C# Codes\Caculate Area of triangle\Caculate Area of triangle\obj\Debug\net8.0\Caculate Area of triangle.dll
+D:\C# Codes\Caculate Area of triangle\Caculate Area of triangle\obj\Debug\net8.0\refint\Caculate Area of triangle.dll
+D:\C# Codes\Caculate Area of triangle\Caculate Area of triangle\obj\Debug\net8.0\Caculate Area of triangle.pdb
+D:\C# Codes\Caculate Area of triangle\Caculate Area of triangle\obj\Debug\net8.0\Caculate Area of triangle.genruntimeconfig.cache
+D:\C# Codes\Caculate Area of triangle\Caculate Area of triangle\obj\Debug\net8.0\ref\Caculate Area of triangle.dll

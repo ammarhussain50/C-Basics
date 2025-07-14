@@ -1,0 +1,14 @@
+D:\C# Codes\Array of multiple\Array of multiple\obj\Debug\net8.0\Array of multiple.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Codes\Array of multiple\Array of multiple\obj\Debug\net8.0\Array of multiple.AssemblyInfoInputs.cache
+D:\C# Codes\Array of multiple\Array of multiple\obj\Debug\net8.0\Array of multiple.AssemblyInfo.cs
+D:\C# Codes\Array of multiple\Array of multiple\obj\Debug\net8.0\Array of multiple.csproj.CoreCompileInputs.cache
+D:\C# Codes\Array of multiple\Array of multiple\bin\Debug\net8.0\Array of multiple.exe
+D:\C# Codes\Array of multiple\Array of multiple\bin\Debug\net8.0\Array of multiple.deps.json
+D:\C# Codes\Array of multiple\Array of multiple\bin\Debug\net8.0\Array of multiple.runtimeconfig.json
+D:\C# Codes\Array of multiple\Array of multiple\bin\Debug\net8.0\Array of multiple.dll
+D:\C# Codes\Array of multiple\Array of multiple\bin\Debug\net8.0\Array of multiple.pdb
+D:\C# Codes\Array of multiple\Array of multiple\obj\Debug\net8.0\Array of multiple.dll
+D:\C# Codes\Array of multiple\Array of multiple\obj\Debug\net8.0\refint\Array of multiple.dll
+D:\C# Codes\Array of multiple\Array of multiple\obj\Debug\net8.0\Array of multiple.pdb
+D:\C# Codes\Array of multiple\Array of multiple\obj\Debug\net8.0\Array of multiple.genruntimeconfig.cache
+D:\C# Codes\Array of multiple\Array of multiple\obj\Debug\net8.0\ref\Array of multiple.dll

@@ -1,0 +1,14 @@
+D:\C# Codes\out parameter\out parameter\bin\Debug\net8.0\out parameter.exe
+D:\C# Codes\out parameter\out parameter\bin\Debug\net8.0\out parameter.deps.json
+D:\C# Codes\out parameter\out parameter\bin\Debug\net8.0\out parameter.runtimeconfig.json
+D:\C# Codes\out parameter\out parameter\bin\Debug\net8.0\out parameter.dll
+D:\C# Codes\out parameter\out parameter\bin\Debug\net8.0\out parameter.pdb
+D:\C# Codes\out parameter\out parameter\obj\Debug\net8.0\out parameter.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Codes\out parameter\out parameter\obj\Debug\net8.0\out parameter.AssemblyInfoInputs.cache
+D:\C# Codes\out parameter\out parameter\obj\Debug\net8.0\out parameter.AssemblyInfo.cs
+D:\C# Codes\out parameter\out parameter\obj\Debug\net8.0\out parameter.csproj.CoreCompileInputs.cache
+D:\C# Codes\out parameter\out parameter\obj\Debug\net8.0\out parameter.dll
+D:\C# Codes\out parameter\out parameter\obj\Debug\net8.0\refint\out parameter.dll
+D:\C# Codes\out parameter\out parameter\obj\Debug\net8.0\out parameter.pdb
+D:\C# Codes\out parameter\out parameter\obj\Debug\net8.0\out parameter.genruntimeconfig.cache
+D:\C# Codes\out parameter\out parameter\obj\Debug\net8.0\ref\out parameter.dll

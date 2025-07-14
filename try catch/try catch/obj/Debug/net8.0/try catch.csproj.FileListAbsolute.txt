@@ -1,0 +1,14 @@
+D:\C# Codes\try catch\try catch\bin\Debug\net8.0\try catch.exe
+D:\C# Codes\try catch\try catch\bin\Debug\net8.0\try catch.deps.json
+D:\C# Codes\try catch\try catch\bin\Debug\net8.0\try catch.runtimeconfig.json
+D:\C# Codes\try catch\try catch\bin\Debug\net8.0\try catch.dll
+D:\C# Codes\try catch\try catch\bin\Debug\net8.0\try catch.pdb
+D:\C# Codes\try catch\try catch\obj\Debug\net8.0\try catch.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Codes\try catch\try catch\obj\Debug\net8.0\try catch.AssemblyInfoInputs.cache
+D:\C# Codes\try catch\try catch\obj\Debug\net8.0\try catch.AssemblyInfo.cs
+D:\C# Codes\try catch\try catch\obj\Debug\net8.0\try catch.csproj.CoreCompileInputs.cache
+D:\C# Codes\try catch\try catch\obj\Debug\net8.0\try catch.dll
+D:\C# Codes\try catch\try catch\obj\Debug\net8.0\refint\try catch.dll
+D:\C# Codes\try catch\try catch\obj\Debug\net8.0\try catch.pdb
+D:\C# Codes\try catch\try catch\obj\Debug\net8.0\try catch.genruntimeconfig.cache
+D:\C# Codes\try catch\try catch\obj\Debug\net8.0\ref\try catch.dll

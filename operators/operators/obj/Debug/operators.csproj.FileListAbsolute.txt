@@ -1,0 +1,8 @@
+C:\Users\AMMAR\source\repos\operators\operators\bin\Debug\operators.exe.config
+C:\Users\AMMAR\source\repos\operators\operators\bin\Debug\operators.exe
+C:\Users\AMMAR\source\repos\operators\operators\bin\Debug\operators.pdb
+C:\Users\AMMAR\source\repos\operators\operators\obj\Debug\operators.csproj.AssemblyReference.cache
+C:\Users\AMMAR\source\repos\operators\operators\obj\Debug\operators.csproj.CoreCompileInputs.cache
+C:\Users\AMMAR\source\repos\operators\operators\obj\Debug\operators.exe
+C:\Users\AMMAR\source\repos\operators\operators\obj\Debug\operators.pdb
+C:\Users\AMMAR\source\repos\operators\operators\obj\Debug\operators.exe.config

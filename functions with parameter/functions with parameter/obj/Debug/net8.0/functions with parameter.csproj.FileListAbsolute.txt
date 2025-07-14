@@ -1,0 +1,14 @@
+D:\C# Codes\functions with parameter\functions with parameter\bin\Debug\net8.0\functions with parameter.exe
+D:\C# Codes\functions with parameter\functions with parameter\bin\Debug\net8.0\functions with parameter.deps.json
+D:\C# Codes\functions with parameter\functions with parameter\bin\Debug\net8.0\functions with parameter.runtimeconfig.json
+D:\C# Codes\functions with parameter\functions with parameter\bin\Debug\net8.0\functions with parameter.dll
+D:\C# Codes\functions with parameter\functions with parameter\bin\Debug\net8.0\functions with parameter.pdb
+D:\C# Codes\functions with parameter\functions with parameter\obj\Debug\net8.0\functions with parameter.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Codes\functions with parameter\functions with parameter\obj\Debug\net8.0\functions with parameter.AssemblyInfoInputs.cache
+D:\C# Codes\functions with parameter\functions with parameter\obj\Debug\net8.0\functions with parameter.AssemblyInfo.cs
+D:\C# Codes\functions with parameter\functions with parameter\obj\Debug\net8.0\functions with parameter.csproj.CoreCompileInputs.cache
+D:\C# Codes\functions with parameter\functions with parameter\obj\Debug\net8.0\functions with parameter.dll
+D:\C# Codes\functions with parameter\functions with parameter\obj\Debug\net8.0\refint\functions with parameter.dll
+D:\C# Codes\functions with parameter\functions with parameter\obj\Debug\net8.0\functions with parameter.pdb
+D:\C# Codes\functions with parameter\functions with parameter\obj\Debug\net8.0\functions with parameter.genruntimeconfig.cache
+D:\C# Codes\functions with parameter\functions with parameter\obj\Debug\net8.0\ref\functions with parameter.dll

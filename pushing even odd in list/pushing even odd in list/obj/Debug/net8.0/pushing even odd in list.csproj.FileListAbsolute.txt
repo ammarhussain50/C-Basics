@@ -1,0 +1,14 @@
+D:\C# Codes\pushing even odd in list\pushing even odd in list\bin\Debug\net8.0\pushing even odd in list.exe
+D:\C# Codes\pushing even odd in list\pushing even odd in list\bin\Debug\net8.0\pushing even odd in list.deps.json
+D:\C# Codes\pushing even odd in list\pushing even odd in list\bin\Debug\net8.0\pushing even odd in list.runtimeconfig.json
+D:\C# Codes\pushing even odd in list\pushing even odd in list\bin\Debug\net8.0\pushing even odd in list.dll
+D:\C# Codes\pushing even odd in list\pushing even odd in list\bin\Debug\net8.0\pushing even odd in list.pdb
+D:\C# Codes\pushing even odd in list\pushing even odd in list\obj\Debug\net8.0\pushing even odd in list.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Codes\pushing even odd in list\pushing even odd in list\obj\Debug\net8.0\pushing even odd in list.AssemblyInfoInputs.cache
+D:\C# Codes\pushing even odd in list\pushing even odd in list\obj\Debug\net8.0\pushing even odd in list.AssemblyInfo.cs
+D:\C# Codes\pushing even odd in list\pushing even odd in list\obj\Debug\net8.0\pushing even odd in list.csproj.CoreCompileInputs.cache
+D:\C# Codes\pushing even odd in list\pushing even odd in list\obj\Debug\net8.0\pushing even odd in list.dll
+D:\C# Codes\pushing even odd in list\pushing even odd in list\obj\Debug\net8.0\refint\pushing even odd in list.dll
+D:\C# Codes\pushing even odd in list\pushing even odd in list\obj\Debug\net8.0\pushing even odd in list.pdb
+D:\C# Codes\pushing even odd in list\pushing even odd in list\obj\Debug\net8.0\pushing even odd in list.genruntimeconfig.cache
+D:\C# Codes\pushing even odd in list\pushing even odd in list\obj\Debug\net8.0\ref\pushing even odd in list.dll

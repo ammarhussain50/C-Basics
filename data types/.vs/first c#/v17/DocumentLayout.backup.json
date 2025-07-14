@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AMMAR\\source\\repos\\first c#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6CA0D647-4875-447A-8852-59C886D1462A}|first c#\\first c#.csproj|c:\\users\\ammar\\source\\repos\\first c#\\first c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CA0D647-4875-447A-8852-59C886D1462A}|first c#\\first c#.csproj|solutionrelative:first c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AMMAR\\source\\repos\\first c#\\first c#\\Program.cs",
+              "RelativeDocumentMoniker": "first c#\\Program.cs",
+              "ToolTip": "C:\\Users\\AMMAR\\source\\repos\\first c#\\first c#\\Program.cs",
+              "RelativeToolTip": "first c#\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T20:29:28.662Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
